@@ -1,4 +1,4 @@
-Ever open Command Prompt and type `ls` and forget that you're on a Windows machine?
+Ever open Command Prompt and type `ls` forgetting that you're on a Windows machine?
 
 ```
 C:\Users\Admin>ls
@@ -29,3 +29,10 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Command Processor]
 "Autorun"="\"C:\\aliases.cmd\""
 ```
+
+# Install
+
+1. Clone this repo to your desktop
+2. Move the files into your `C:\`
+3. Run `install_aliases.reg`
+4. Restart command prompt
